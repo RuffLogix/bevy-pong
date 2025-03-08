@@ -2,7 +2,7 @@
 
 ![Demo](./public/demo.png)
 
-This project follows [this](https://taintedcoders.com/bevy/tutorials/pong-tutorial) tutorial to explores the [Bevy](https://bevyengine.org/) framework and its [ECS pattern](https://bevyengine.org/learn/quick-start/getting-started/ecs/) by building a Pong game.
+This project follows [this](https://taintedcoders.com/bevy/tutorials/pong-tutorial) tutorial to learn the [Bevy](https://bevyengine.org/) framework and its [ECS pattern](https://bevyengine.org/learn/quick-start/getting-started/ecs/) by building a Pong game.
 
 ## Basic Concepts
 
